@@ -174,5 +174,5 @@ dist
 # own
 
 note.*
-bg/
+bg*/
 py_code
